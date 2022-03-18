@@ -1,0 +1,24 @@
+date;Type Operation ; montant;libelle;categorieDepense 
+01/10/2016;D;38.85;supermarche;Nourriture;
+01/10/2016;D;18;cinema;Loisir;
+18/10/2016;D;162;vêtements;shopping;
+02/10/2016;D;85;tennis;Loisir;
+04/10/2016;D;19.95;telephone;Abonnement;
+05/10/2016;D;147;cantine;factures;
+01/10/2016;D;225;impots;autres;
+09/10/2016;D;21;Medecin;autres;
+12/10/2016;D;16;Internet;Abonnement;
+16/10/2016;D;85;bijoux;shopping;
+04/10/2016;D;187;supermarche;Nourriture;
+12/10/2016;D;589;loyer;factures;
+25/10/2016;D;113;plombier;autres;
+16/10/2016;D;49;EDF/GDF;factures;
+25/10/2016;C;1455;Salaire;;
+30/10/2016;D;4;Fraisbancaire;factures;
+21/10/2016;D;25;Restaurant;Nourriture;
+04/10/2016;D;9.99;livres;Loisir;
+11/10/2016;D;18;fastfood;Nourriture;
+28/10/2016;D;200;VirementPEL;autres;
+08/10/2016;C;25;Mutuelle;;
+08/10/2016;C;38.85;Securitesociale;;
+01/10/2016;D;48;chaussure;shopping;
